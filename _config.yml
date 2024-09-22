@@ -1,0 +1,23 @@
+# Site settings
+title: Health research in the Digital Health Group at Aberystwyth University
+lab_name: Digital Health Group
+author: >
+  Faisal Rezwan
+institution: ABER
+email: f.rezwan@aber.ac.uk
+description: >
+  © 2024 Digital Health Group. We are part of the Department of Computer Scient at Aberystwyth University, Llandinam Bldg, Penglais, Aberystwyth SY23 3DB, UK.
+baseurl: ""
+url: "https://https://faisalrezwan.github.io/"
+github_username:  faisalrezwan
+images_dir: "/images/"
+
+# Build settings
+markdown: kramdown
+include: ["_pages"]
+permalink: /:title/
+
+#plugins for search engine optimization
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
