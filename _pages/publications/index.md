@@ -6,7 +6,7 @@ toggle: on
 rank: 4
 ---
 
-Selected publications of last 5 years from Rezwan Lab. Members of the Rezwan Lab indicated in **boldface** (authors with \* contributed equally). Full list of publications can be found [here](https://orcid.org/0000-0001-9921-222X). <br>
+Selected publications of last 5 years from Rezwan Lab. Members of the Rezwan Lab indicated in **boldface** (authors with \* contributed equally). Full list of publications can be found [HERE](https://orcid.org/0000-0001-9921-222X). <br>
 
 
 ## 2024
