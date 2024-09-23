@@ -28,3 +28,13 @@ Latha Kadalayil, Alam, M.Z., White, C.H.,..., **\*Rezwan F.I.**, Holloway J.W..
 [Fathers' preconception smoking and offspring DNA methylation.](https://doi.org/10.1101/2023.01.13.523912)
 
 Kitaba N.T., Knudsen G.T.M., Johannessen A., **Rezwan F.I.**, Malinovschi A., Oudin A., Benediktsdottir B., Martino D., González F.J.C., Gómez L.P., Holm M., Jõgi N.O., Dharmage S.C., Skulstad S.M., Watkins S.H., Suderman M., Gómez-Real F., Schlünssen V., Svanes C., Holloway J.W..
+
+## 2022
+
+[Measurement of Exhaled Volatile Organic Compounds as a Biomarker for Personalised Medicine: Assessment of Short-Term Repeatability in Severe Asthma](https://doi.org/10.3390/jpm12101635)
+
+Azim A., **Rezwan F.I.**, Barber C., Harvey M., Kurukulaaratchy R.J., Holloway J.W., Howarth P.H..
+
+[Nonlinear effects of environment on childhood asthma susceptibility.](https://doi.org/10.1111/pai.13777)
+
+Kothalawala, D.M., Weiss, V.B.N., Kadalayil, L., Granell, R., Curtin, J.A., Murray, C.S., Simpson, A., Custovic, A., Tapper, W.J., **Rezwan, F.I.**, Arshad, S.H., Holloway, J.W., STELAR/UNICORN investigators. 
