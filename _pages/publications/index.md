@@ -23,4 +23,8 @@ van Breugel M., Fehrmann R.S.N., Bügel M., **Rezwan F.I.**, Holloway J. W., Naw
 
 [Analysis of DNA methylation at birth and in childhood reveals changes associated with season of birth and latitude.](https://doi.org/10.1186/s13148-023-01542-5)
 
-Latha Kadalayil, Alam, M.Z., White, C.H.,..., **\*Rezwan F.I.**, \*Holloway J.W..
+Latha Kadalayil, Alam, M.Z., White, C.H.,..., **\*Rezwan F.I.**, Holloway J.W..
+
+[Fathers' preconception smoking and offspring DNA methylation.](https://doi.org/10.1101/2023.01.13.523912)
+
+Kitaba N.T., Knudsen G.T.M., Johannessen A., **Rezwan F.I.**, Malinovschi A., Oudin A., Benediktsdottir B., Martino D., González F.J.C., Gómez L.P., Holm M., Jõgi N.O., Dharmage S.C., Skulstad S.M., Watkins S.H., Suderman M., Gómez-Real F., Schlünssen V., Svanes C., Holloway J.W..
