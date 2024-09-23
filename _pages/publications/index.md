@@ -19,4 +19,4 @@ Li, S., Spitz, N., Ghantous, A., Abrishamcar, S., Reimann, B., Marques, I., Silv
 
 [Current state and prospects of artificial intelligence in allergy](https://doi.org/10.1038/s42003-023-05698-x)
 
-van Breugel M., Fehrmann R.S.N., Bügel M., **Rezwan F. I.**, Holloway J. W., Nawijn M.C., Fontanella S., Custovic A., Koppelman G.H..
+van Breugel M., Fehrmann R.S.N., Bügel M., **Rezwan F.I.**, Holloway J. W., Nawijn M.C., Fontanella S., Custovic A., Koppelman G.H..
