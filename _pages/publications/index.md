@@ -13,17 +13,17 @@ Selected publications of last 5 years from Rezwan Lab. Members of the Rezwan Lab
 
 [A Pregnancy and Childhood Epigenetics Consortium (PACE) meta-analysis highlights potential relationships between birth order and neonatal blood DNA methylation](https://pubmed.ncbi.nlm.nih.gov/38195839/)
 
-Li, S., Spitz, N., Ghantous, A., Abrishamcar, S., Reimann, B., Marques, I., Silver, M.J., Aguilar-Lacasaña, S., Kitaba, N., **Rezwan, F.I.**, Röder, S., Sirignano, L., Tuhkanen, J., Mancano, G., Sharp, G.C., Metayer, C., Morimoto, L., Stein, D.J., Zar, H.J. and Alfano, R..
+Li, S, Spitz, N, Ghantous, A, Abrishamcar, S, Reimann, B, Marques, I, Silver, MJ, Aguilar-Lacasaña, S, Kitaba, N, **Rezwan, FI**, Röder, S, Sirignano, L, Tuhkanen, J, Mancano, G, Sharp, GC, Metayer, C, Morimoto, L, Stein, DJ, Zar, HJ and Alfano, R.
 
 ## 2023
 
 [Current state and prospects of artificial intelligence in allergy](https://doi.org/10.1038/s42003-023-05698-x)
 
-van Breugel M., Fehrmann R.S.N., Bügel M., **Rezwan F.I.**, Holloway J. W., Nawijn M.C., Fontanella S., Custovic A., Koppelman G.H..
+van Breugel M, Fehrmann RSN, Bügel M, **Rezwan FI**, Holloway J W, Nawijn MC, Fontanella S, Custovic A, Koppelman GH.
 
 [Analysis of DNA methylation at birth and in childhood reveals changes associated with season of birth and latitude.](https://doi.org/10.1186/s13148-023-01542-5)
 
-Latha Kadalayil, Alam, M.Z., White, C.H., ... , **\*Rezwan F.I.**, Holloway J.W..
+Latha Kadalayil, Alam, MZ, White, CH, …  , **\*Rezwan FI**, Holloway JW.
 
 [Fathers' preconception smoking and offspring DNA methylation.](https://doi.org/10.1101/2023.01.13.523912)
 
@@ -38,3 +38,7 @@ Azim A., **Rezwan F.I.**, Barber C., Harvey M., Kurukulaaratchy R.J., Holloway J
 [Nonlinear effects of environment on childhood asthma susceptibility.](https://doi.org/10.1111/pai.13777)
 
 **Kothalawala, D.M.**, Weiss, V.B.N., Kadalayil, L., Granell, R., Curtin, J.A., Murray, C.S., Simpson, A., Custovic, A., Tapper, W.J., **Rezwan, F.I.**, Arshad, S.H., Holloway, J.W., STELAR/UNICORN investigators. 
+
+[Predicting Pulmonary Function From the Analysis of Voice: A Machine Learning Approach.] (https://doi.org/10.3389/fdgth.2022.750226)
+
+**Alam M.Z**, Simonetti A, Brillantino R, Tayler N, Grainge C, Siribaddana P, Nouraei SAR, Batchelor J, Rahman MS, Mancuzo EV, Holloway JW, Holloway JA, **Rezwan FI**.
