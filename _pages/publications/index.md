@@ -13,7 +13,7 @@ Selected publications of last 5 years from Rezwan Lab. Members of the Rezwan Lab
 
 [A Pregnancy and Childhood Epigenetics Consortium (PACE) meta-analysis highlights potential relationships between birth order and neonatal blood DNA methylation](https://pubmed.ncbi.nlm.nih.gov/38195839/)
 
-Li, S, Spitz, N, Ghantous, A, Abrishamcar, S, Reimann, B, Marques, I, Silver, MJ, Aguilar-Lacasaña, S, Kitaba, N, **Rezwan, FI**, Röder, S, Sirignano, L, Tuhkanen, J, Mancano, G, Sharp, GC, Metayer, C, Morimoto, L, Stein, DJ, Zar, HJ and Alfano, R.
+Li S, Spitz N, Ghantous A, Abrishamcar S, Reimann B, Marques I, Silver MJ, Aguilar-Lacasaña S, Kitaba N, **Rezwan, FI**, Röder S, Sirignano L, Tuhkanen J, Mancano G, Sharp GC, Metayer C, Morimoto L, Stein DJ, Zar HJ and Alfano R.
 
 ## 2023
 
@@ -37,7 +37,7 @@ Azim A, **Rezwan FI**, Barber C, Harvey M, Kurukulaaratchy RJ, Holloway JW, Howa
 
 [Nonlinear effects of environment on childhood asthma susceptibility.](https://doi.org/10.1111/pai.13777)
 
-**Kothalawala, DM**, Weiss, VBN, Kadalayil, L, Granell, R, Curtin, JA, Murray, CS, Simpson, A, Custovic, A, Tapper, WJ, **Rezwan, FI**, Arshad, SH, Holloway, JW, STELAR/UNICORN investigators. 
+**Kothalawala DM**, Weiss VBN, Kadalayil L, Granell R, Curtin JA, Murray CS, Simpson A, Custovic A, Tapper WJ, **Rezwan FI**, Arshad SH, Holloway JW, STELAR/UNICORN investigators. 
 
 [Predicting Pulmonary Function From the Analysis of Voice: A Machine Learning Approach.] (https://doi.org/10.3389/fdgth.2022.750226)
 
