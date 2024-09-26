@@ -27,18 +27,18 @@ Latha Kadalayil, Alam, MZ, White, CH, …  , **\*Rezwan FI**, Holloway JW.
 
 [Fathers' preconception smoking and offspring DNA methylation.](https://doi.org/10.1101/2023.01.13.523912)
 
-Kitaba N.T., Knudsen G.T.M., Johannessen A., **Rezwan F.I.**, Malinovschi A., Oudin A., Benediktsdottir B., Martino D., González F.J.C., Gómez L.P., Holm M., Jõgi N.O., Dharmage S.C., Skulstad S.M., Watkins S.H., Suderman M., Gómez-Real F., Schlünssen V., Svanes C., Holloway J.W..
+Kitaba NT, Knudsen GTM, Johannessen A, **Rezwan FI**, Malinovschi A, Oudin A, Benediktsdottir B, Martino D, González FJC, Gómez LP, Holm M, Jõgi NO, Dharmage SC, Skulstad SM, Watkins SH, Suderman M, Gómez-Real F, Schlünssen V, Svanes C, Holloway JW.
 
 ## 2022
 
 [Measurement of Exhaled Volatile Organic Compounds as a Biomarker for Personalised Medicine: Assessment of Short-Term Repeatability in Severe Asthma](https://doi.org/10.3390/jpm12101635)
 
-Azim A., **Rezwan F.I.**, Barber C., Harvey M., Kurukulaaratchy R.J., Holloway J.W., Howarth P.H..
+Azim A, **Rezwan FI**, Barber C, Harvey M, Kurukulaaratchy RJ, Holloway JW, Howarth PH.
 
 [Nonlinear effects of environment on childhood asthma susceptibility.](https://doi.org/10.1111/pai.13777)
 
-**Kothalawala, D.M.**, Weiss, V.B.N., Kadalayil, L., Granell, R., Curtin, J.A., Murray, C.S., Simpson, A., Custovic, A., Tapper, W.J., **Rezwan, F.I.**, Arshad, S.H., Holloway, J.W., STELAR/UNICORN investigators. 
+**Kothalawala, DM**, Weiss, VBN, Kadalayil, L, Granell, R, Curtin, JA, Murray, CS, Simpson, A, Custovic, A, Tapper, WJ, **Rezwan, FI**, Arshad, SH, Holloway, JW, STELAR/UNICORN investigators. 
 
 [Predicting Pulmonary Function From the Analysis of Voice: A Machine Learning Approach.] (https://doi.org/10.3389/fdgth.2022.750226)
 
-**Alam M.Z**, Simonetti A, Brillantino R, Tayler N, Grainge C, Siribaddana P, Nouraei SAR, Batchelor J, Rahman MS, Mancuzo EV, Holloway JW, Holloway JA, **Rezwan FI**.
+**Alam MZ**, Simonetti A, Brillantino R, Tayler N, Grainge C, Siribaddana P, Nouraei SAR, Batchelor J, Rahman MS, Mancuzo EV, Holloway JW, Holloway JA, **Rezwan FI**.
