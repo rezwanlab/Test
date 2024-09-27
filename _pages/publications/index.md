@@ -39,21 +39,16 @@ Azim A, **Rezwan FI**, Barber C, Harvey M, Kurukulaaratchy RJ, Holloway JW, Howa
 
 **Kothalawala DM**, Weiss VBN, Kadalayil L, Granell R, Curtin JA, Murray CS, Simpson A, Custovic A, Tapper WJ, **Rezwan FI**, Arshad SH, Holloway JW, STELAR/UNICORN investigators. 
 
-[Nonlinear effects of environment on childhood asthma susceptibility.](https://doi.org/10.1111/pai.13777)
-
-**Kothalawala DM**, Weiss VBN, Kadalayil L, Granell R, Curtin JA, Murray CS, Simpson A, Custovic A, Tapper WJ, **Rezwan FI**, Arshad SH, Holloway JW, STELAR/UNICORN investigators. 
-
-
 [Predicting Pulmonary Function From the Analysis of Voice: A Machine Learning Approach.](https://doi.org/10.3389/fdgth.2022.750226)
 
 **Alam MZ**, Simonetti A, Brillantino R, Tayler N, Grainge C, Siribaddana P, Nouraei SAR, Batchelor J, Rahman MS, Mancuzo EV, Holloway JW, Holloway JA, **Rezwan FI**.
 
-[Development of childhood asthma prediction models using machine learning approaches.] (https://doi.org/10.1002/clt2.12076)
+[Development of childhood asthma prediction models using machine learning approaches.](https://doi.org/10.1002/clt2.12076)
 
 **Kothalawala DM**, Murray CS, Simpson A, Custovic A, Tapper WJ, Arshad SH, Holloway JW, **Rezwan FI**; STELAR/UNICORN investigators.
 
 ## 2021
 
-[Genomic and phenotypic insights from an atlas of genetic effects on DNA methylation.] (https://doi.org/10.1038/s41588-021-00923-x)
+[Genomic and phenotypic insights from an atlas of genetic effects on DNA methylation.](https://doi.org/10.1038/s41588-021-00923-x)
 
 Min, JL, Hemani, G, Hannon, E, Dekkers, KF, and 153 others, including **Rezwan, FI** 
