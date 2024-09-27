@@ -46,3 +46,9 @@ Azim A, **Rezwan FI**, Barber C, Harvey M, Kurukulaaratchy RJ, Holloway JW, Howa
 [Development of childhood asthma prediction models using machine learning approaches.] (https://doi.org/10.1002/clt2.12076)
 
 **Kothalawala DM**, Murray CS, Simpson A, Custovic A, Tapper WJ, Arshad SH, Holloway JW, **Rezwan FI**; STELAR/UNICORN investigators.
+
+## 2021
+
+[Genomic and phenotypic insights from an atlas of genetic effects on DNA methylation.] (https://doi.org/10.1038/s41588-021-00923-x)
+
+Min, JL, Hemani, G, Hannon, E, Dekkers, KF, and 153 others, including **Rezwan, FI** 
