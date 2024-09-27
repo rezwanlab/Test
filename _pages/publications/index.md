@@ -42,3 +42,7 @@ Azim A, **Rezwan FI**, Barber C, Harvey M, Kurukulaaratchy RJ, Holloway JW, Howa
 [Predicting Pulmonary Function From the Analysis of Voice: A Machine Learning Approach.] (https://doi.org/10.3389/fdgth.2022.750226)
 
 **Alam MZ**, Simonetti A, Brillantino R, Tayler N, Grainge C, Siribaddana P, Nouraei SAR, Batchelor J, Rahman MS, Mancuzo EV, Holloway JW, Holloway JA, **Rezwan FI**.
+
+[Development of childhood asthma prediction models using machine learning approaches.] (https://doi.org/10.1002/clt2.12076)
+
+**Kothalawala DM**, Murray CS, Simpson A, Custovic A, Tapper WJ, Arshad SH, Holloway JW, **Rezwan FI**; STELAR/UNICORN investigators.
