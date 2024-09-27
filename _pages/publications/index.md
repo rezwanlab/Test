@@ -39,7 +39,12 @@ Azim A, **Rezwan FI**, Barber C, Harvey M, Kurukulaaratchy RJ, Holloway JW, Howa
 
 **Kothalawala DM**, Weiss VBN, Kadalayil L, Granell R, Curtin JA, Murray CS, Simpson A, Custovic A, Tapper WJ, **Rezwan FI**, Arshad SH, Holloway JW, STELAR/UNICORN investigators. 
 
-[Predicting Pulmonary Function From the Analysis of Voice: A Machine Learning Approach.] (https://doi.org/10.3389/fdgth.2022.750226)
+[Nonlinear effects of environment on childhood asthma susceptibility.](https://doi.org/10.1111/pai.13777)
+
+**Kothalawala DM**, Weiss VBN, Kadalayil L, Granell R, Curtin JA, Murray CS, Simpson A, Custovic A, Tapper WJ, **Rezwan FI**, Arshad SH, Holloway JW, STELAR/UNICORN investigators. 
+
+
+[Predicting Pulmonary Function From the Analysis of Voice: A Machine Learning Approach.](https://doi.org/10.3389/fdgth.2022.750226)
 
 **Alam MZ**, Simonetti A, Brillantino R, Tayler N, Grainge C, Siribaddana P, Nouraei SAR, Batchelor J, Rahman MS, Mancuzo EV, Holloway JW, Holloway JA, **Rezwan FI**.
 
