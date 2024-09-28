@@ -74,3 +74,8 @@ Wang J, Zhang H, **Rezwan FI**, Relton C, Arshad SH, Holloway JW.
 
 Zhang H, Huang X, Han S, **Rezwan FI**, Karmaus W, Arshad H, Holloway JW.
 
+## 2020
+
+[DNA methylation and body mass index from birth to adolescence: meta-analyses of epigenome-wide association studies.](https://doi.org/10.1186/s13073-020-00810-w)
+
+Vehmeijer FOL, Küpers LK, Sharp GC, and 167 others, including **Rezwan, FI**.
