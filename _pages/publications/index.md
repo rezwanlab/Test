@@ -49,10 +49,10 @@ Azim A, **Rezwan FI**, Barber C, Harvey M, Kurukulaaratchy RJ, Holloway JW, Howa
 
 ## 2021
 
-[Genomic and phenotypic insights from an atlas of genetic effects on DNA methylation.](https://doi.org/10.1038/s41588-021-00923-x)
-
-Min, JL, Hemani, G, Hannon, E, Dekkers, KF, and 153 others, including **Rezwan, FI**
-
-[Pre-adolescence DNA methylation is associated with BMI status change from pre- to post-adolescence.](https://doi.org/10.1186/s13148-021-01042-4)
+[Genomic and phenotypic insights from an atlas of genetic effects on DNA methylationx with BMI status change from pre- to post-adolescence.](https://doi.org/10.1186/s13148-021-01042-4)
 
 Wang J, Zhang H, **Rezwan FI**, Relton C, Arshad SH, Holloway JW.
+
+[Gaussian Bayesian network comparisons with graph ordering unknown.](https://doi.org/10.1016/j.csda.2020.107156)
+
+Zhang H, Huang X, Han S, **Rezwan FI**, Karmaus W, Arshad H, Holloway JW.
