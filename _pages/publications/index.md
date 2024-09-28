@@ -43,11 +43,12 @@ Azim A, **Rezwan FI**, Barber C, Harvey M, Kurukulaaratchy RJ, Holloway JW, Howa
 
 **Alam MZ**, Simonetti A, Brillantino R, Tayler N, Grainge C, Siribaddana P, Nouraei SAR, Batchelor J, Rahman MS, Mancuzo EV, Holloway JW, Holloway JA, **Rezwan FI**.
 
+
+## 2021
+
 [Development of childhood asthma prediction models using machine learning approaches.](https://doi.org/10.1002/clt2.12076)
 
 **Kothalawala DM**, Murray CS, Simpson A, Custovic A, Tapper WJ, Arshad SH, Holloway JW, **Rezwan FI**; STELAR/UNICORN investigators.
-
-## 2021
 
 [Genomic and phenotypic insights from an atlas of genetic effects on DNA methylationx with BMI status change from pre- to post-adolescence.](https://doi.org/10.1186/s13148-021-01042-4)
 
@@ -56,3 +57,4 @@ Wang J, Zhang H, **Rezwan FI**, Relton C, Arshad SH, Holloway JW.
 [Gaussian Bayesian network comparisons with graph ordering unknown.](https://doi.org/10.1016/j.csda.2020.107156)
 
 Zhang H, Huang X, Han S, **Rezwan FI**, Karmaus W, Arshad H, Holloway JW.
+
